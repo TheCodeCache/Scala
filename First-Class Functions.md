@@ -1,4 +1,4 @@
-
+**Function:**  
 As with other types of data such as `String` and `Int`,  
 functions have types based on the types of their input arguments types and their return value type.  
 A function can be  
