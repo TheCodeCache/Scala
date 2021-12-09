@@ -45,7 +45,29 @@ The best known `implementation of the Actor model` are:
 1. Akka
 2. Elixir
 
-**Reference:**  
+**Use-case:**  
+1. Processing pipeline
+2. Streaming Data
+3. Multi-user concurrency
+4. Systems high uptime requirements
+5. Application with shared state
+
+**Anti Use-case:**  
+1. working on a non-concurrent system
+2. performance critical applications
+3. Non-concurrent communication is involved
+4. There is no mutable state
+
+**Drawbacks:**
+1. Too many Actors
+2. Testing
+3. Debugging
+   Debugging can be difficult anyways, anytime we introduce the state with concurrency that can be a bit difficult.  
+   State and Concurrency together are always gonna be difficult to debug.  
+
+Note: Actors are an abstraction over top of threads or processes 
+
+**References:**  
 1. https://www.youtube.com/watch?v=ELwEdb_pD0k
 2. https://www.youtube.com/watch?v=lPTqcecwkJg
 
