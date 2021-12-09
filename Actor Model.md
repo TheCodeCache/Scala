@@ -1,6 +1,6 @@
-# Actor in Scala:
+# Actor Model:
 
-It's a conceptual model of concurrent computation.  
+It's a `conceptual model` of `concurrent computation`.  
 
 In the `Actor model`, an `Actor` is a fundamental unit of computation.  
 
