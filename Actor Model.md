@@ -47,4 +47,5 @@ The best known `implementation of the Actor model` are:
 
 **Reference:**  
 1. https://www.youtube.com/watch?v=ELwEdb_pD0k
+2. https://www.youtube.com/watch?v=lPTqcecwkJg
 
