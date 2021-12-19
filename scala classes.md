@@ -61,3 +61,6 @@ case object Bicycle {
 # sealed trait
 
 # abstract class
+
+# Mixins
+
