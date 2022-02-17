@@ -1,6 +1,6 @@
 # Akka –
 
-`Akka` is a powerful toolkit that we can use to build frameworks or applications.  
+**`Akka`** is a powerful toolkit that we can use to build frameworks or applications.  
 **It's an implementation of `Actor` Model**  
 It makes concurrency easy for programmers by raising the abstraction level.  
 It is a concurrency framework built on actors, but it provides all the popular concurrency abstractions available on the market.  
