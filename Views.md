@@ -1,4 +1,4 @@
-# Scala Views - 
+# Scala `Views` - 
 
 `Transformers`:  are nothing but the transformations that we apply on the collections or a group of values in general.  
 
